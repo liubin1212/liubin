@@ -4,3 +4,4 @@
 4、多次练习HelloWorld案例，达到如下标准：使用Editplus软件，但是不使用Editplus模板，做到在【1分钟】之内完成创建文件、编辑代码、编译和运行成功
 5、第二次提交
 6、第三次提交
+7、GIT分支feature_manage
